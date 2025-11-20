@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  自动替换知乎图片链接中的 token，使用 data-original-token 获取无水印原图（支持所有子域和懒加载）
-// @author       You
+// @author       Momo
 // @match        *://*.zhihu.com/*
 // @grant        none
 // @run-at       document-idle
